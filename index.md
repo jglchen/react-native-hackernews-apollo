@@ -20,3 +20,5 @@ This is a [Hackernews](https://news.ycombinator.com/) mobile app built with reac
 ### [React GitHub](https://github.com/jglchen/hackernews-nextjs-apollo)
 ### Docker: docker run -p 3000:3000 jglchen/hackernews-nextjs-apollo
 ### back To [Series Home](https://jglchen.github.io/)
+
+{% include giscus.html %}
